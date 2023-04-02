@@ -27,7 +27,7 @@ Or it can be launched using a tool like wsgi.
 ## Developpement mode
 
 ```bash
-python3.8 dev.py
+python3.8 index.py
 ```
 
 ## Production mode
